@@ -1,0 +1,50 @@
+baseURL = 'http://fabstat.github.io/'
+languageCode = 'en-us'
+title = 'Fabiana Ferracina'
+theme = "researcher"
+enableEmoji = true
+math = true          # enable KaTeX (https://katex.org/) globally
+
+[params]
+  [params.style]  # appearance options (can be omitted)
+    fontFamily = "Inconsolata"
+    pageWidth = "750px"
+    avatarSize = "90px"
+    colorBlack = "#222222"
+    colorRed = "#dc3545"
+  [[params.socialIcons]]
+    icon = "fab fa-github"
+    title = "Github"
+    url = "https://github.com/fabstat"
+
+[permalinks]
+  "/" = "/:filename"
+
+[menu]
+[[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 1
+  [[menu.main]]
+    name = "Teaching"
+    url = "/teaching"
+    weight = 2
+  [[menu.main]]
+    name = "Research"
+    url = "/research"
+    weight = 3
+ [[menu.main]]
+    name = "CV"
+    url = "/cv.pdf"
+    weight = 4
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog"
+    weight = 5
+  [[menu.main]]
+    name = "Art"
+    url = "/art"
+    weight = 6
+
+[markup.goldmark.renderer]
+  unsafe = true  # allow raw HTML in markdown files
