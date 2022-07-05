@@ -4,7 +4,7 @@ title = "Fabiana's Page"
 
 ## About Me
 
-{{< figure class="avatar" src="/fabiana.jpg" alt="Picture of Fabiana">}}
+{{< figure class="avatar"  src="/fabiana.jpg" alt="Picture of Fabiana" >}}
 
 I am a Ph.D. student at the <a href="http://math.wsu.edu" target="_blank">Mathematics and Statistics Department</a> of <a href="http://vancouver.wsu.edu" target="_blank">Washington State University</a>. My research interests are broad, ranging from applying state-space models to ecological problems to topological data analysis (TDA).
 
