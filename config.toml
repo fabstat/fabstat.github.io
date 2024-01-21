@@ -35,7 +35,7 @@ math = true          # enable KaTeX (https://katex.org/) globally
     weight = 3
  [[menu.main]]
     name = "CV"
-    url = "/cv.pdf"
+    url = "/fabiana_ferracina_DS.pdf"
     weight = 4
 
 [markup.goldmark.renderer]
