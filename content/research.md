@@ -9,19 +9,24 @@ title = "Fabiana's Research"
 
 Topological data analysis (TDA) is a subfield of algebraic topology whose
 application to areas of study outside mathematics is becoming more and more
-common. Two such areas of interest to me are neuroscience and computer science.
-In neuroscience, TDA has been applied to EEG signals, fMRI data and connectomes
-to study both implicit and explicit topological structures of brain states and
-function. In computer science, specifically in the fields of machine learning
+common. In computer science, specifically in the fields of machine learning
 and networks, TDA has been used to both take the topology of the input data into
 account in order to inform models, as well as to incorporate topological
 information directly into the design of models. TDA helps us extract topological
 features from the data and use this information to better understand and learn
 from the data, and along with statistical tools and approaches, we can discuss
 the significance of such features. My research will focus on answering important
-structural questions about how both biological and artificial neural networks
+structural questions about how artificial neural networks
 function through the study of topological features and their statistical
 significance.
+
+## Publications
+
+1. Ferracina, F., Krishnamoorthy, B., Halappanavar, M., Hu, S. and Sathuvalli, V., 2024. Predictive Analytics of Varieties of Potatoes. <a href="https://arxiv.org/abs/2404.03701" target="_blank">(preprint)</a> and associated <a href="https://github.com/fabstat/burbank" target="_blank">(code)</a> on GitHub
+
+## Talks
+
+1.<a href="https://fabstat.github.io/GNS_Slides_RAIN.pdf" target="_blank">Simulating Aerosol Chemistry with Graph Neural Networks</a> presented at the <a href="https://sites.google.com/pdx.edu/rain2024" target="_blank">8th Cascade RAIN Meeting</a>
 
 ## Past Presentations on Existing Literature
 
