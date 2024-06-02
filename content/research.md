@@ -24,9 +24,17 @@ significance.
 
 1. Ferracina, F., Krishnamoorthy, B., Halappanavar, M., Hu, S. and Sathuvalli, V., 2024. Predictive Analytics of Varieties of Potatoes. <a href="https://arxiv.org/abs/2404.03701" target="_blank">(preprint)</a> and associated <a href="https://github.com/fabstat/burbank" target="_blank">(code)</a> on GitHub
 
+## Repositories
+
+1. <a href="https://github.com/fabstat/burbank" target="_blank">Project Burbank: Classification of Russet Varieties</a>
+1. <a href="https://github.com/fabstatglad" target="_blank">GLAD: Graph Learning of Aerosol Dynamics</a> and <a href="https://fabstat.github.io/ChemGNS_How_to.pdf" target="_blank">a tutorial on using GLAD</a>
+
+
 ## Talks
 
-1.<a href="https://fabstat.github.io/GNS_Slides_RAIN.pdf" target="_blank">Simulating Aerosol Chemistry with Graph Neural Networks</a> presented at the <a href="https://sites.google.com/pdx.edu/rain2024" target="_blank">8th Cascade RAIN Meeting</a>
+1. <a href="https://fabstat.github.io/GNS_Slides_RAIN.pdf" target="_blank">Simulating Aerosol Chemistry with Graph Neural Networks</a> presented at the <a href="https://sites.google.com/pdx.edu/rain2024" target="_blank">8th Cascade RAIN Meeting</a>
+
+1. <a href="https://fabstat.github.io/phd-slides" target="_blank">Collection of Articles Presentation</a> presented at WSU Vancouver.
 
 ## Past Presentations on Existing Literature
 
