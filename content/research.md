@@ -22,7 +22,7 @@ significance.
 
 ## Publications
 
-1. Ferracina, F., Krishnamoorthy, B., Halappanavar, M., Hu, S. and Sathuvalli, V., 2024. Predictive Analytics of Varieties of Potatoes. <a href="https://arxiv.org/abs/2404.03701" target="_blank">(preprint)</a> and associated <a href="https://github.com/fabstat/burbank" target="_blank">(code)</a> on GitHub
+1. Ferracina, F., Krishnamoorthy, B., Halappanavar, M., Hu, S. and Sathuvalli, V., 2024. Predictive Analytics of Varieties of Potatoes. To appear in the Crop Science Journal. <a href="https://arxiv.org/abs/2404.03701" target="_blank">(preprint)</a> and associated <a href="https://github.com/fabstat/burbank" target="_blank">(code)</a> on GitHub
 
 ## Repositories
 
