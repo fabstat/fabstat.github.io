@@ -22,7 +22,11 @@ significance.
 
 ## Publications
 
-1. Ferracina, F., Krishnamoorthy, B., Halappanavar, M., Hu, S. and Sathuvalli, V., 2024. Predictive Analytics of Varieties of Potatoes. To appear in the Crop Science Journal. <a href="https://arxiv.org/abs/2404.03701" target="_blank">(preprint)</a> and associated <a href="https://github.com/fabstat/burbank" target="_blank">(code)</a> on GitHub
+1. Ferracina, F., Krishnamoorthy, B., Halappanavar, M., Hu, S. and Sathuvalli, V., 2025. Predictive analytics of selections of russet potatoes. Crop Science, 65(1), p.e21432. (<a href="https://doi.org/10.1002/csc2.21432" target="_blank">doi</a>)
+
+1. Nakamura, A., Ferracina, F., Sakata, N., Noguchi, T. and Ando, H., 2025. Reducing Total Trip Time and Vehicle Emission through Park-and-Ride–methods and case-study. Journal of Cleaner Production, p.144860. (<a href="https://doi.org/10.1016/j.jclepro.2025.144860" target="_blank">doi</a>)
+
+1. Ferracina, F., Beeler, P., Halappanavar, M., Krishnamoorthy, B., Minutoli, M. and Fierce, L., 2024. Learning to Simulate Aerosol Dynamics with Graph Neural Networks. arXiv preprint arXiv:2409.13861. <i>To appear in the ACS ES&T Air Journal</i>
 
 ## Repositories
 
