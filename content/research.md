@@ -26,11 +26,12 @@ significance.
 
 1. Nakamura, A., Ferracina, F., Sakata, N., Noguchi, T. and Ando, H., 2025. Reducing Total Trip Time and Vehicle Emission through Park-and-Ride–methods and case-study. Journal of Cleaner Production, p.144860. (<a href="https://doi.org/10.1016/j.jclepro.2025.144860" target="_blank">doi</a>)
 
-1. Ferracina, F., Beeler, P., Halappanavar, M., Krishnamoorthy, B., Minutoli, M. and Fierce, L., 2024. Learning to Simulate Aerosol Dynamics with Graph Neural Networks. arXiv preprint arXiv:2409.13861. <i>To appear in the ACS ES&T Air Journal</i>
+1. Ferracina, F., Beeler, P., Halappanavar, M., Krishnamoorthy, B., Minutoli, M. and Fierce, L., 2024. Learning to Simulate Aerosol Dynamics with Graph Neural Networks. arXiv preprint arXiv:2409.13861. <i>To appear in the ACS ES&T Air Journal</i>.
 
 ## Repositories
 
 1. <a href="https://github.com/fabstat/burbank" target="_blank">Project Burbank: Classification of Russet Varieties</a>
+
 1. <a href="https://github.com/fabstatglad" target="_blank">GLAD: Graph Learning of Aerosol Dynamics</a> and <a href="https://fabstat.github.io/ChemGNS_How_to.pdf" target="_blank">a tutorial on using GLAD</a>
 
 
