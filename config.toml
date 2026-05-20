@@ -13,7 +13,7 @@ math = true          # enable KaTeX (https://katex.org/) globally
     colorBlack = "#222222"
     colorRed = "#dc3545"
   [[params.socialIcons]]
-    icon = "fab fa-github"
+    icon = "fa-brands fa-github"
     title = "Github"
     url = "https://github.com/fabstat"
   [[params.socialIcons]]
