@@ -17,7 +17,7 @@ math = true          # enable KaTeX (https://katex.org/) globally
     title = "Github"
     url = "https://github.com/fabstat"
   [[params.socialIcons]]
-    icon = "fab fa-bluesky"
+    icon = "fa-brands fa-bluesky"
     title = "Bluesky"
     url = "https://bsky.app/profile/fabstat.bsky.social"
 
