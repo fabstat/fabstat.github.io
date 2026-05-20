@@ -16,6 +16,10 @@ math = true          # enable KaTeX (https://katex.org/) globally
     icon = "fab fa-github"
     title = "Github"
     url = "https://github.com/fabstat"
+  [[params.socialIcons]]
+    icon = "fab fa-bluesky"
+    title = "Bluesky"
+    url = "https://bsky.app/profile/fabstat.bsky.social"
 
 [permalinks]
   "/" = "/:filename"

@@ -20,7 +20,7 @@ structural questions about how artificial neural networks
 function through the study of topological features and their statistical
 significance.
 
-## Publicationsß
+## Publications
 
 1. Ferracina, F., Krishnamoorthy, B., Halappanavar, M., Hu, S. and Sathuvalli, V., 2025. Predictive analytics of selections of russet potatoes. Crop Science, 65(1), p.e21432. (<a href="https://doi.org/10.1002/csc2.21432" target="_blank">doi</a>)
 

@@ -2,7 +2,7 @@
 title = "Fabiana's Teaching Experience"
 +++
 
-Teaching is an important aspect of my life as a graduate student at
+Teaching was an important aspect of my life as a graduate student at
 <a href="http://vancouver.wsu.edu" target="_blank">WSU Vancouver</a>.
 I also taught math and computer science classes as a lecturer
 at the <a href="https://www.uwb.edu/" target="_blank">University of Washington
