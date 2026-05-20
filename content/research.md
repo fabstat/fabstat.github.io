@@ -20,13 +20,15 @@ structural questions about how artificial neural networks
 function through the study of topological features and their statistical
 significance.
 
-## Publications
+## Publicationsß
 
 1. Ferracina, F., Krishnamoorthy, B., Halappanavar, M., Hu, S. and Sathuvalli, V., 2025. Predictive analytics of selections of russet potatoes. Crop Science, 65(1), p.e21432. (<a href="https://doi.org/10.1002/csc2.21432" target="_blank">doi</a>)
 
 1. Nakamura, A., Ferracina, F., Sakata, N., Noguchi, T. and Ando, H., 2025. Reducing Total Trip Time and Vehicle Emission through Park-and-Ride–methods and case-study. Journal of Cleaner Production, p.144860. (<a href="https://doi.org/10.1016/j.jclepro.2025.144860" target="_blank">doi</a>)
 
-1. Ferracina, F., Beeler, P., Halappanavar, M., Krishnamoorthy, B., Minutoli, M. and Fierce, L., 2024. Learning to Simulate Aerosol Dynamics with Graph Neural Networks. arXiv preprint arXiv:2409.13861. <i>To appear in the ACS ES&T Air Journal</i>.
+1. Ferracina, F., Beeler, P., Halappanavar, M., Krishnamoorthy, B., Minutoli, M. and Fierce, L., 2024. Learning to Simulate Aerosol Dynamics with Graph Neural Networks. ACS ES \&T Air, 2(8), pp.1426-1438. (<a href="https://doi.org/10.1021/acsestair.4c00261" target="_blank">doi</a>)
+
+1. Ferracina F., Lu A.K.A., Du X.N., Chen N., Ojovan M.I., Suito H., Louzguine-Luzgin D. V., 2026 Viscosity Rise of Supercritical Liquid Copper Above the Frenkel Line and Related Structural Features: A Molecular Dynamics and Topological Data Analysis Study. Vol. 38.  (<a href="https://doi.org/10.1088/1361-648X/ae6216" target="_blank">doi</a>)
 
 ## Repositories
 
@@ -36,6 +38,20 @@ significance.
 
 
 ## Talks
+
+1. Topological Data Analysis and Machine Learning: Mathematical Foundations and Industrial Applications. 2nd International Conference on Recent Advances in Engineering and Sciences-2026 (ICRAES-2K26). April, 2026. Bharati Vidyapeeth's College of Engineering, Lavale, Pune, India.
+
+1. <a href="https://fabstat.github.io/causal/" target="_blank">Enhancing explainability of causal discovery AI - from the G-RIPS Sendai 2024 Fujitsu project.</a> Approaching the World through the Lens of Causality Symposium at Tohoku University. February, 2026. Sendai, Japan.ß
+
+1. Applications of Persistent Homology to Problems in Industry. KISTEC Learning and Training Program in Mathematical Literacy. January, 2026. Kanagawa, Japan.
+
+1. <a href="https://fabstat.github.io/bus-stop/" target="_blank">Persistent Homology Analysis of Urban Transit Networks: Multi-Scale Topological Characterization of Bus Route Patterns.</a> Urban OR Winter Seminar 2025 at Keio University. December, 2025. Yokohama, Japan.
+
+1. Topological Phantom Generation for Small-Dataset Medical Image Classification: A Persistent Homology Framework. Poster presentation in the HeKKSaGOn workshop at The University of Osaka. October, 2025. Osaka, Japan.
+
+1. <a href="https://fabstat.github.io/themapper/" target="_blank">Under Covers with the Mapper: Transforming High Dimensional Data into Actionable Insights .</a> Mitsubishi Electric Corporation. July, 2025. Amagasaki, Japan.
+
+1. Learning to Simulate Aerosol Microphysics with Graph Neural Networks. Tohoku University MCCS Departmental Seminar. December, 2024. Sendai, Japan.
 
 1. <a href="https://fabstat.github.io/GNS_Slides_RAIN.pdf" target="_blank">Simulating Aerosol Chemistry with Graph Neural Networks</a> presented at the <a href="https://sites.google.com/pdx.edu/rain2024" target="_blank">8th Cascade RAIN Meeting</a>
 
