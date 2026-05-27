@@ -28,7 +28,7 @@ significance.
 
 1. Ferracina, F., Beeler, P., Halappanavar, M., Krishnamoorthy, B., Minutoli, M. and Fierce, L., 2024. Learning to Simulate Aerosol Dynamics with Graph Neural Networks. ACS ES \&T Air, 2(8), pp.1426-1438. (<a href="https://doi.org/10.1021/acsestair.4c00261" target="_blank">doi</a>)
 
-1. Ferracina F., Lu A.K.A., Du X.N., Chen N., Ojovan M.I., Suito H., Louzguine-Luzgin D. V., 2026 Viscosity Rise of Supercritical Liquid Copper Above the Frenkel Line and Related Structural Features: A Molecular Dynamics and Topological Data Analysis Study. Vol. 38.  (<a href="https://doi.org/10.1088/1361-648X/ae6216" target="_blank">doi</a>)
+1. Ferracina F., Lu A.K.A., Du X.N., Chen N., Ojovan M.I., Suito H., Louzguine-Luzgin D. V., 2026 Viscosity Rise of Supercritical Liquid Copper Above the Frenkel Line and Related Structural Features: A Molecular Dynamics and Topological Data Analysis Study. Vol. 38.  (<a href="https://fabstat.github.io/VRSLC_preprint.pdf" target="_blank">preprint</a></i>; <a href="https://doi.org/10.1088/1361-648X/ae6216" target="_blank">doi</a>)
 
 ## Repositories
 
